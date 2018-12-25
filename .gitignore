@@ -1,0 +1,14 @@
+## monohiro .ignore
+
+## driver ##########
+# Google Chrome 等
+/driver/
+
+## EXE ##########
+# windows 向け実行ファイル
+/monoget.exe
+
+## Other Files ##########
+# 1. License file
+/monohiro.license
+/target.csv
