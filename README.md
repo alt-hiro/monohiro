@@ -1,8 +1,6 @@
 monohiro
 ====
 
-Overview
-
 ## Description
 monohiro is a web scraping tool that Extends monozon. 
 
